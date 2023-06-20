@@ -4,6 +4,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import RestaurantContainer from './components/RestaurantContainer';
+
 import RestaurantDetails from './components/RestaurantDetails';
 
 const approuter = createBrowserRouter([
